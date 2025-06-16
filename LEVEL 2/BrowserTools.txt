@@ -1,0 +1,52 @@
+Browser Tools
+
+• View Page Source
+
+→ Right click on any page and move to view Page Source.
+→ Displays raw HTML and CSS.
+→ Useful for debugging and learning.
+→ Shows external files like JavaScript links.
+
+• Inspect Element
+
+→ Right click on any page and move to Inspect.
+→ Allows real-time editing of HTML/CSS.
+→ Useful for debugging and testing.
+→ Shows element hierarchy and layout.
+→ Includes Console for JavaScript.
+→ Highlights selected elements on page.
+
+• HTML without CSS
+
+→ Use WebDeveloper Extension to do this.
+
+• Different Screen Sizes / Responsive Design
+
+→ Adapts layout for different screen sizes.
+→ Flexible layouts.
+→ Optimizes images and assets.
+→ Enhances user experience on mobile and desktop.
+
+How?
+Step (i): Inspect
+Step (ii): Toggle device toolbar button before Elements button
+
+• Live Edit Code
+
+Inspect → change code according to you.
+Eg. Change Subscriber Count.
+
+→ Changes only happen at client & temporary.
+→ Useful for testing, not permanent fixes.
+
+★ Validating Web Pages
+
+Using validator.w3.org we validate our codes.
+→ Ensures HTML adheres to standards.
+→ Helps in achieving better SEO results.
+→ Minimizes cross-browser issues.
+→ Easier to debug and maintain.
+→ Optimizes performance as browser doesn't need to resolve errors at runtime.
+
+
+
