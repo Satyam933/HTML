@@ -1,0 +1,5 @@
+1. Create a page with header, footer, main (section, article, aside tag).
+
+2. Create groupings of multiple tags using div.
+
+3. Create navigation to important sections of your page.
